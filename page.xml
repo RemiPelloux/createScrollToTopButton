@@ -1,0 +1,10 @@
+<action method="addItem">
+    <type>skin_js</type>
+    <name>js/scroll-to-top.js</name>
+</action>
+<action method="addJs">
+    <script>scroll-to-top.js</script>
+</action>
+<action method="addJs">
+    <script>createScrollToTopButton();</script>
+</action>
